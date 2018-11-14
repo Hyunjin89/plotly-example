@@ -1,2 +1,5 @@
 # plotly-example
-Python library Plotly 
+Learning about Python library - Plotly 
+
+![World Map](https://imgur.com/lH3prBE)
+
